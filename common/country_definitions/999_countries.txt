@@ -1,0 +1,12 @@
+RME = {
+	color = { 102 2 60 }
+	
+	country_type = unrecognized
+
+	tier = empire
+	
+	cultures = { north_german south_german north_italy south_italy greek }
+	capital = STATE_BRANDENBURG
+}
+
+
