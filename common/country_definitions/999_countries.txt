@@ -5,8 +5,94 @@ RME = {
 
 	tier = empire
 	
-	cultures = { north_german south_german north_italy south_italy greek }
+	cultures = { latin frankish greek }
 	capital = STATE_BRANDENBURG
 }
 
+SIR = {
+	color = { 221  99  147 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures = { sirpean }
+	capital = STATE_PYONGYANG
+}
 
+TOP = {
+	color = { 35  221  188 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures = { topinjing }
+	capital = STATE_PYONGYANG
+}
+
+GON = {
+	color = { 110  188  101 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures = { wu }
+	capital = STATE_PYONGYANG
+}
+
+BAN = {
+	color = { 101  188  177 }
+	
+	country_type = recognized
+	
+	tier = empire
+	
+	cultures = { baan }
+	capital = STATE_PYONGYANG
+}
+
+DIK= {
+	color = { 219  151  73 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures = { deiy }
+	capital = STATE_PYONGYANG
+}
+
+RMA= {
+	color = { 89  120  255 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures = { fan }
+	capital = STATE_PYONGYANG
+}
+
+JNG= {
+	color = { 96  209  72 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures = { jangan }
+	capital = STATE_PYONGYANG
+}
+
+MGK= {
+	color = { 217  149  118 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures = { miao }
+	capital = STATE_PYONGYANG
+}

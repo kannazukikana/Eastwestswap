@@ -1766,11 +1766,11 @@ CAM = {
 CHI = {
 	color = { 252 185 61 }
 	
-	country_type = unrecognized
+	country_type = recognized
 	
-	tier = empire
+	tier = hegemony
 	
-	cultures = { manchu han } 
+	cultures = { yue su min wu jangan xiang ten } 
 	capital = STATE_BEIJING
 }
 
@@ -3006,8 +3006,8 @@ YUN = { # Yunnan
 
 YUE = { # Yue
 	color = { 89 113 223 }
-	country_type = unrecognized
-	tier = principality
+	country_type = recognized
+	tier = empire
 	cultures = { yue }
 	
 	capital = STATE_GUANGDONG
@@ -3532,9 +3532,9 @@ GNG = { #Guangxi
 
 SIH = { #Sichuan
 	color = { 42 189 68 }
-	country_type = unrecognized
+	country_type = recognized
 	tier = kingdom
-	cultures = { han }
+	cultures = { su }
 	capital = STATE_SICHUAN
 }
 
